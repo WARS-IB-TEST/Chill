@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace std;
+int main(){
+    cout<<"JUSTLAN? More like JUST FUCK UP MY WHOLE DAY."<<endl;
+    return 0;
+}
